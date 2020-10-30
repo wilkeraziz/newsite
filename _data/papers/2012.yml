@@ -11,19 +11,6 @@
   booktitle-url: https://sites.google.com/site/wptp2012/
   data: https://surfdrive.surf.nl/files/index.php/s/2NN7MP0VGraIyaO/download
   venue: conference
-  abstract: >
-    Post-editing machine translations has been attracting increasing attention both as a common practice within the translation industry and as a way to evaluate Machine Translation (MT) quality via edit distance metrics between the MT and its post-edited version. Commonly used metrics such as HTER are limited in that they cannot fully capture the effort required for post-editing. Particularly, the cognitive effort required may vary for different types of errors and may also depend on the context. We suggest post-editing time as a way to assess some of the cognitive effort involved in post-editing. This paper presents two experiments investigating the connection between post-editing time and cognitive effort. First, we examine whether sentences with long and short post-editing times involve edits of different levels of difficulty. Second, we study the variability in post-editing time and other statistics among editors.
-  bibtex: >
-    @InProceedings{koponen+12:petime,
-      author =       {Maarit Koponen, Wilker Aziz, Luciana Ramos and Lucia Specia},
-      title =        {Post-editing time as a measure of cognitive effort},
-      booktitle =    {AMTA 2012 Workshop on Post-Editing Technology and Practice (WPTP 2012)},
-      pages =        {11--20},
-      year =         2012,
-      address =      {San Diego, USA},
-      month =        {October},
-      organization = {Association for Machine Translation in the Americas (AMTA)},
-    }
 -
   layout: paper
   paper-type: inproceedings
@@ -39,20 +26,3 @@
   code: https://github.com/wilkeraziz/PET
   booktitle-url: http://www.lrec-conf.org/proceedings/lrec2012/index.html
   venue: conference
-  #logo: pet
-  abstract: >
-    Given the significant improvements in Machine Translation (MT) quality and the increasing demand for translations, post-editing of automatic translations is becoming a popular practice in the translation industry. It has been shown to allow for much larger volumes of translations to be produced, saving time and costs. In addition, the post-editing of automatic translations can help understand problems in such translations and this can be used as feedback for researchers and developers to improve MT systems. Finally, post-editing can be used as a way of evaluating the quality of translations in terms of how much post-editing effort these translations require. We describe a standalone tool that has two main purposes: facilitate the post-editing of translations from any MT system so that they reach publishable quality and collect sentence-level information from the post-editing process, e.g.: post-editing time and detailed keystroke statistics.
-  bibtex: >
-    @InProceedings{AZIZEtAl2012PET,
-      author = {Wilker Aziz and Sheila Castilho and Lucia Specia},
-      title = {PET: a Tool for Post-editing and Assessing Machine Translation},
-      booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
-      year = {2012},
-      month = {may},
-      date = {23-25},
-      address = {Istanbul, Turkey},
-      editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
-      publisher = {European Language Resources Association (ELRA)},
-      isbn = {978-2-9517408-7-7},
-      language = {english}
-     }
