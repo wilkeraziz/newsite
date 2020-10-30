@@ -4,9 +4,12 @@ title: "About"
 ---
 
 I am an *assistant professor* (UD) in natural language processing at the [Institute for Logic, Language and Computation][ILLC] where I lead the [Probabilistic Language Learning group](https://probabll.github.io). 
-My work mostly concerns the design of models and algorithms that learn to represent, understand, and generate language data. Examples of specific problems I am interested in include language modelling, machine translation, syntactic parsing, textual entailment, text classification, and question answering. I also develop techniques to approach general machine learning problems such as probabilistic inference, gradient and density estimation. My interests sit at the intersection of disciplines such as statistis, machine learning, approximate inference, global optimisation, formal languages, and computational linguistics.
 
-My current projects mostly focus on learning deep probabilistic latent variable models. I'm particularly interested in unsupervised induction of discrete generalisation such as trees and graphs. I've also been interested in making machine learning models more transparent about their inner workings. 
+My work concerns the design of models and algorithms that learn to represent, understand, and generate language data. Examples of specific problems I am interested in include language modelling, machine translation, syntactic parsing, textual entailment, text classification, and question answering. 
+
+I also develop techniques to approach general machine learning problems such as probabilistic inference, gradient and density estimation. 
+
+My interests sit at the intersection of disciplines such as statistis, machine learning, approximate inference, global optimisation, formal languages, and computational linguistics.
 
 If you need to find me try Science Park 107 (F1.01). Here is my [public calendar](events).
 
@@ -16,10 +19,15 @@ I often serve on the program committee of ML/CL/NLP/MT conferences
 * CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
 * MT conferences: WMT, EAMT, AMTA, MT Summit
 
-and I review for CL/NLP/MT journals
+including as area chair
 
+* \*SEM2019 and ACL2020 (machine learning for NLP) 
+* ICRL2021 
+
+and I also review for CL/NLP/MT journals
+
+* TACL
 * Natural Language Engineering
-* Computer Speech and Language
 * Machine Translation
 
 
