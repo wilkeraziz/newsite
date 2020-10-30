@@ -12,8 +12,6 @@
   code: https://github.com/wilkeraziz/grasp
   poster: /posters/mtmpbml2015.pdf
   venue: conference
-  errata: >
-      In the print version, Equation 3 is incorrect. I intended to first discuss the univariate slice sampler (Neal, 2003) and then introduce the multivariate extension of Blunsom and Cohn (2010). In shortening the text, I misrepresented f(d,u) by mixing its definition with the univariate case. A complete and correct specification of f(d, u) is present in the electronic version.
 -
   layout: paper
   paper-type: inproceedings
