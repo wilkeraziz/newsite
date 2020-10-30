@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/me.jpeg"
   bio    : "I am an assistant professor (UD) in natural language processing at the [ILLC](https://www.illc.uva.nl), University of Amsterdam, where I lead the [Probabll group](https://probabll.github.io)."
   links:
-    - label: "Website"
+    - label: "Probabll"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://probabll.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
