@@ -5,6 +5,10 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Events"
+    url: https://probabll.github.io/events/
+  - title: "Papers"
+    url: https://probabll.github.io/papers/
   - title: "Probabll"
     url: https://probabll.github.io
   - title: "About"
