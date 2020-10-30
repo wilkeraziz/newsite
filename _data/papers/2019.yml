@@ -3,6 +3,19 @@
   paper-type: inproceedings
   selected: y
   year: 2019
+  title: "Auto-Encoding Variational Neural Machine Translation"
+  authors: "Bryan Eikema and Wilker Aziz"
+  doc-url: https://www.aclweb.org/anthology/W19-4315
+  arxiv: //arxiv.org/abs/1807.10564 
+  code: //github.com/Roxot/AEVNMT 
+  booktitle: "RepL4NLP"
+  code: https://github.com/Roxot/AEVNMT.pt
+  demo: https://github.com/Roxot/AEVNMT.pt/blob/master/demo/AEVNMT.ipynb
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2019
   img: latentrationale
   title: "Interpretable Neural Predictions with Differentiable Binary Variables"
   authors: "Jasmijn Bastings, Wilker Aziz and Ivan Titov"
