@@ -37,7 +37,7 @@ and I also review for CL/NLP/MT journals
 
 
 In January 2019 I joined the faculty of science (FNWI at UvA) as assistant professor, before that I was a research associate at the ILLC working
- with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}) at the [Statistical Language Processing and Learning Lab][SLPLL] from January 2014 to December 2018.
+ with [Prof Khalil Sima'an](https://staff.fnwi.uva.nl/k.simaan/index.html) at the [Statistical Language Processing and Learning Lab][SLPLL] from January 2014 to December 2018.
 
 From November 2013 to December 2014, I worked at the [University of Sheffield](http://www.sheffield.ac.uk/dcs) with [Dr Lucia Specia]({{ site.lucia_specia }}). 
 

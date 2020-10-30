@@ -28,8 +28,6 @@ search: true
 locale: "en"
 repository: "wilkeraziz/newsite"
 
-ksimaanstyle: Khalil Sima<font color="red">`</font>an
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
