@@ -8,6 +8,6 @@ main:
   - title: "Events"
     url: https://probabll.github.io/events/
   - title: "Papers"
-    url: https://probabll.github.io/papers/
+    url: /papers/
   - title: "About"
     url: /about/

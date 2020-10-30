@@ -1,0 +1,87 @@
+-
+  layout: paper
+  paper-type: pre-print
+  selected: y
+  year: 2018
+  img: aevnmt
+  title: "Auto-Encoding Variational Neural Machine Translation"
+  authors: "Bryan Eikema and Wilker Aziz"
+  doc-url: //arxiv.org/pdf/1807.10564.pdf
+  arxiv: //arxiv.org/abs/1807.10564 
+  code: //github.com/Roxot/AEVNMT 
+  slides:
+  booktitle: "arXiv:1807.10564"
+  abstract: >
+    We present a deep generative model of bilingual sentence pairs. The model generates source and target sentences jointly from a shared latent representation and is parameterised by neural networks. Efficient training is done by amortised variational inference and reparameterised gradients. Additionally, we discuss the statistical implications of joint modelling and propose an efficient approximation to maximum a posteriori decoding for fast test-time predictions. We demonstrate the effectiveness of our model in three scenarios: in-domain training, mixed-domain training, and learning from a mix of gold-standard and synthetic data. Our experiments show consistently that our joint formulation outperforms conditional modelling in all such scenarios.
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: sdec2018
+  title: "A Stochastic Decoder for Neural Machine Translation"
+  authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
+  doc-url: //aclweb.org/anthology/P18-1115
+  arxiv: //arxiv.org/abs/1805.10844
+  appendix: //anthology.aclweb.org/attachments/P/P18/P18-1115.Notes.pdf
+  code: //github.com/philschulz/stochastic-decoder 
+  slides:
+  booktitle: "Proceedings of ACL 2018"
+  abstract: >
+    The process of translation is ambiguous, in that there are typically many valid translations for a given sentence. This gives rise to significant variation in parallel corpora, however, most current models of machine translation do not account for this variation, instead treating the problem as a deterministic process. To this end, we present a deep generative model of machine translation which incorporates a chain of latent variables, in order to account for local lexical and syntactic variation in parallel corpora. We provide an in-depth analysis of the pitfalls encountered in variational inference for training deep generative models. Experiments on several different language pairs demonstrate that the model consistently improves over strong baselines.
+  bibtex: >
+    @InProceedings{P18-1115,
+        author = 	"Schulz, Philip
+            and Aziz, Wilker
+            and Cohn, Trevor",
+        title = 	"A Stochastic Decoder for Neural Machine Translation",
+        booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        year = 	"2018",
+        publisher = 	"Association for Computational Linguistics",
+        pages = 	"1243--1252",
+        location = 	"Melbourne, Australia",
+        url = 	"http://aclweb.org/anthology/P18-1115"
+    }
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: embedalign2018
+  title: "Deep Generative Model for Joint Alignment and Word Representation"
+  authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
+  doc-url: //aclweb.org/anthology/N18-1092 
+  arxiv: //arxiv.org/abs/1802.05883
+  code: //github.com/uva-slpl/embedalign
+  slides: /slides/embedalign-naacl18.pdf
+  booktitle: "Proceedings of NAACL-HLT 2018"
+  abstract: >
+    This work exploits translation data as a source of semantically relevant learning signal for models of word representation. In particular, we exploit equivalence through translation as a form of distributed context and jointly learn how to embed and align with a deep generative model. Our EmbedAlign model embeds words in their complete observed context and learns by marginalisation of latent lexical alignments. Besides, it embeds words as posterior probability densities, rather than point estimates, which allows us to compare words in context using a measure of overlap between distributions (e.g. KL divergence). We investigate our model's performance on a range of lexical semantics tasks achieving competitive results on several standard benchmarks including natural language inference, paraphrasing, and text similarity. 
+  bibtex: >
+    @InProceedings{N18-1092,
+        author = 	"Rios, Miguel
+            and Aziz, Wilker
+            and Simaan, Khalil",
+        title = 	"Deep Generative Model for Joint Alignment and Word Representation",
+        booktitle = 	"Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)",
+        year = 	"2018",
+        publisher = 	"Association for Computational Linguistics",
+        pages = 	"1011--1023",
+        location = 	"New Orleans, Louisiana",
+        url = 	"http://aclweb.org/anthology/N18-1092"
+    }
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: aclnmt2018
+  title: "Modeling Latent Sentence Structure in Neural Machine Translation"
+  authors: "Jasmijn Bastings, Wilker Aziz, Ivan Titov, Khalil Sima'an"
+  doc-url: //arxiv.org/pdf/1901.06436.pdf
+  arxiv: //arxiv.org/abs/1901.06436
+  booktitle: "Extended abstract at ACL's NMT workshop"
+
+
+
