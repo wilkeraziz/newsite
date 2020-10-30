@@ -11,7 +11,7 @@ I also develop techniques to approach general machine learning problems such as 
 
 My interests sit at the intersection of disciplines such as statistis, machine learning, approximate inference, global optimisation, formal languages, and computational linguistics.
 
-If you need to find me try Science Park 107 (F1.01). Here is my [public calendar](events).
+# Service
 
 I often serve on the program committee of ML/CL/NLP/MT conferences
 
