@@ -77,7 +77,7 @@ author:
       url: "https://github.com/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "assets/share/cv.pdf"
+      url: "/assets/share/cv.pdf"
 
 footer:
   links:
