@@ -3,6 +3,34 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+In January 2019 I joined the ILLC as assistant professor, before that I was a research associate at the ILLC working
+ with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}) at the [Statistical Language Processing and Learning Lab][SLPLL].
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I often serve on the program committee of ML/CL/NLP/MT conferences
+
+* ML conferences: NIPS, ICML, ICLR
+* CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
+* MT conferences: WMT, EAMT, AMTA, MT Summit
+
+and I review for CL/NLP/MT journals
+
+* Natural Language Engineering
+* Computer Speech and Language
+* Machine Translation
+
+
+
+# Background
+
+From November 2013 to December 2014, I worked at the [University of Sheffield](http://www.sheffield.ac.uk/dcs) with [Dr Lucia Specia]({{ site.lucia_specia }}) on the [MODIST project]({{ site.modist_url }}) which aims at making SMT discourse-aware.
+
+I obtained my PhD from the University of Wolverhampton (UK) in February 2014.
+
+I was twice an intern at [XRCE](http://www.xrce.xerox.com) (France), first as an undergraduate and then as a PhD candidate, where I had the great pleasure to work with [Marc Dymetman](http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman).
+
+In 2010, I obtained my BSc degree in Computer Engineering from the Engineering School of the University of Sao Paulo (Brazil).
+
+
+[SLPLL]: {{ site.slpll_url }} "Statistical Language Processing and Learning Lab"
+[ILLC]: {{ site.illc_url }} "Institute for Logic, Language and Computation"
+[UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
