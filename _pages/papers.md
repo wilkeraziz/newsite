@@ -2,6 +2,7 @@
 permalink: /papers/
 layout: single
 title: Papers
+toc: true
 ---
 
 {% assign hashes = (site.data.papers) %}
