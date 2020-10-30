@@ -73,7 +73,7 @@ author:
       url: "https://probabll.github.io"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "/assets/share/cv.pdf"
+      url: "assets/share/cv.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"

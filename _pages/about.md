@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 toc: true
+toc_sticky: false
 ---
 
 I am an *assistant professor* (UD) in natural language processing at the [Institute for Logic, Language and Computation][ILLC] where I lead the [Probabilistic Language Learning group](https://probabll.github.io). 
