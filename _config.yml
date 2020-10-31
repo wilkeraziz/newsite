@@ -67,30 +67,30 @@ author:
     - label: "Probabll"
       icon: "fas fa-fw fa-link"
       url: "https://probabll.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "/assets/share/cv.pdf"
-
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+
+footer:
+  links:
     - label: "Probabll"
       icon: "fas fa-fw fa-link"
       url: "https://probabll.github.io"
     - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "/assets/share/cv.pdf"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
 
 defaults:
   # _posts
