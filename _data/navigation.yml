@@ -1,10 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Events"
     url: https://probabll.github.io/events/
   - title: "Papers"
