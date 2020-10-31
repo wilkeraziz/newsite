@@ -24,7 +24,7 @@ github_username: wilkeraziz
 minimal_mistakes_skin: default
 search: true
 locale: "en"
-repository: "wilkeraziz/newsite"
+repository: "wilkeraziz/wilkeraziz.github.io"
 
 # Build settings
 markdown: kramdown
@@ -85,6 +85,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Probabll"
+      icon: "fas fa-fw fa-link"
+      url: "https://probabll.github.io"
+    - label: "CV"
+      icon: "fas fa-fw fa-link"
+      url: "/assets/share/cv.pdf"
 
 defaults:
   # _posts
@@ -106,9 +112,3 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
