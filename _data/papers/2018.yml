@@ -1,18 +1,5 @@
 -
   layout: paper
-  paper-type: pre-print
-  selected: y
-  year: 2018
-  img: aevnmt
-  title: "Auto-Encoding Variational Neural Machine Translation"
-  authors: "Bryan Eikema and Wilker Aziz"
-  doc-url: //arxiv.org/pdf/1807.10564.pdf
-  arxiv: //arxiv.org/abs/1807.10564 
-  code: //github.com/Roxot/AEVNMT 
-  slides:
-  booktitle: "arXiv:1807.10564"
--
-  layout: paper
   paper-type: inproceedings
   selected: y
   year: 2018
