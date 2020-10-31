@@ -14,7 +14,7 @@ toc: true
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 {% for year in sortedyears %}
-### {{ year }}
+### {{ year | replace: "_", " - " }}
 {% for paper in hashes[year] %}
 {% include paper.html paper=paper %}
 {% endfor %}
