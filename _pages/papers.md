@@ -15,7 +15,8 @@ toc: false
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 {% for year in sortedyears %}
 ### {{ year | replace: "_", " - " }}
-{% for paper in hashes[year] %}
+{% assign selected = hashes[year] | where: "selected", "y" %}
+{% for paper in selected %}
 {% include paper.html paper=paper %}
 {% endfor %}
 {% endfor %}
