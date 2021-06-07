@@ -67,6 +67,16 @@
   spotlight: y
 -
   layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2020
+  title: Disease Normalization with Graph Embeddings
+  authors: Dhruba Pujary, Camilo Thorne, and Wilker Aziz 
+  booktitle: "IntelliSys"
+  doc-url: https://arxiv.org/pdf/2010.12925.pdf
+  arxiv: https://arxiv.org/abs/2010.12925
+-
+  layout: paper
   paper-type: pre-print
   selected: y
   year: 2020
