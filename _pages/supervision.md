@@ -26,4 +26,5 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 * Daan van Stigt. 2019. [Neural Language Models with Latent Syntax](https://eprints.illc.uva.nl/id/eprint/1683/1/MoL-2019-02.text.pdf)
 * Tom Pelsmaeker. 2019. [Effective Estimation of Deep Generative Models of Language](https://scripties.uba.uva.nl/search?id=679150)
 * Bryan Eikema. 2018. [Auto-Encoding Variational Neural Machine Translation](https://scripties.uba.uva.nl/search?id=665650)
+* Sander Bijl de Vroe. 2017. [Character-level Neural Architectures for Jointly Predicting Word Alignments and Word-internal Structure in Morphologically Complex Languages](http://dspace.library.uu.nl/handle/1874/354704)
 
