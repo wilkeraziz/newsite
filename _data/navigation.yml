@@ -3,6 +3,8 @@ main:
     url: https://probabll.github.io/events/
   - title: "Papers"
     url: /papers/
+  - title: "Supervision"
+    url: /supervision/
   - title: "Posts"
     url: /tags/
   - title: "About"
