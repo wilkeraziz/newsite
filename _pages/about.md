@@ -23,7 +23,8 @@ I often serve on the program committee of ML/CL/NLP/MT conferences
 
 including as area chair
 
-* \*SEM2019 and ACL2020 (machine learning for NLP) 
+* \*SEM2019 (machine learning for NLP) 
+* ACL2020 (machine learning for NLP), ACL2021 (machine translation and multilinguality)
 * ICRL2021 ([outstanding area chair](https://iclr.cc/Conferences/2021/ProgramCommittee))
 
 and I also review for CL/NLP/MT journals
