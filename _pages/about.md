@@ -17,14 +17,14 @@ My interests sit at the intersection of disciplines such as statistis, machine l
 
 I often serve on the program committee of ML/CL/NLP/MT conferences
 
-* ML conferences: NIPS, ICML, ICLR
+* ML conferences: NeurIPS, ICML, ICLR
 * CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
 * MT conferences: WMT, EAMT, AMTA, MT Summit
 
 including as area chair
 
 * \*SEM2019 and ACL2020 (machine learning for NLP) 
-* ICRL2021 
+* ICRL2021 ([outstanding area chair](https://iclr.cc/Conferences/2021/ProgramCommittee))
 
 and I also review for CL/NLP/MT journals
 
