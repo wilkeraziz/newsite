@@ -7,6 +7,7 @@
   authors: Bryan Eikema and Wilker Aziz
   doc-url: https://arxiv.org/pdf/2108.04718.pdf
   arxiv: https://arxiv.org/abs/2108.04718
+  code: https://github.com/Roxot/mbr-nmt
 -
   layout: paper
   paper-type: pre-print
@@ -27,6 +28,7 @@
   booktitle: EMNLP 
   doc-url: https://arxiv.org/pdf/2104.08164.pdf
   arxiv: https://arxiv.org/abs/2104.08164 
+  code: https://github.com/nicola-decao/KnowledgeEditor
 -
   layout: paper
   paper-type: inproceedings
@@ -37,3 +39,4 @@
   booktitle: EMNLP 
   doc-url: 
   arxiv: 
+  code: https://github.com/nicola-decao/efficient-autoregressive-EL
