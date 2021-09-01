@@ -9,6 +9,7 @@
   doc-url: https://www.aclweb.org/anthology/2020.coling-main.398/ 
   arxiv: https://arxiv.org/abs/2005.10283
   best: y
+  code: https://github.com/Roxot/bayesian-length-analysis
 -
   layout: paper
   paper-type: inproceedings
@@ -20,6 +21,7 @@
   doc-url: https://papers.nips.cc/paper/2020/hash/887caadc3642e304ede659b734f79b00-Abstract.html
   arxiv: https://arxiv.org/abs/2007.01919
   spotlight: y
+  code: https://github.com/deep-spin/sparse-marginalization-lvm
 -
   layout: paper
   paper-type: inproceedings
@@ -30,6 +32,7 @@
   authors: Nicola De Cao, Michael Schlichtkrull, Wilker Aziz, and Ivan Titov
   doc-url: https://www.aclweb.org/anthology/2020.emnlp-main.262/ 
   arxiv: https://arxiv.org/abs/2004.14992
+  code: https://github.com/nicola-decao/diffmask
 -
   layout: paper
   paper-type: inproceedings
@@ -41,6 +44,7 @@
   arxiv: https://arxiv.org/abs/2006.04437
   booktitle: "ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models"
   slides: https://probabll.github.io/slides/innf2020.pdf
+  code: https://github.com/nicola-decao/power_spherical
 -
   layout: paper
   paper-type: inproceedings 
