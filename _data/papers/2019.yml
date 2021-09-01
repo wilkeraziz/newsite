@@ -23,6 +23,7 @@
   arxiv: //arxiv.org/abs/1905.08160
   slides:
   booktitle: "ACL"  
+  code: https://github.com/bastings/interpretable_predictions
 -
   layout: paper
   paper-type: inproceedings
@@ -47,6 +48,7 @@
   arxiv: https://arxiv.org/abs/1904.04676
   booktitle: "UAI"
   slides:
+  code: https://github.com/nicola-decao/BNAF
 -
   layout: paper
   paper-type: inproceedings
