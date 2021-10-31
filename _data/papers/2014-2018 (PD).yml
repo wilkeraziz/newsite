@@ -6,7 +6,7 @@
   img: sdec2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  doc-url: //aclweb.org/anthology/P18-1115
+  doc-url: //aclanthology.org/P18-1115/
   arxiv: //arxiv.org/abs/1805.10844
   appendix: //anthology.aclweb.org/attachments/P/P18/P18-1115.Notes.pdf
   code: //github.com/philschulz/stochastic-decoder 
