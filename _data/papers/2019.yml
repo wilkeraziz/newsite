@@ -19,7 +19,7 @@
   img: latentrationale
   title: "Interpretable Neural Predictions with Differentiable Binary Variables"
   authors: "Jasmijn Bastings, Wilker Aziz and Ivan Titov"
-  doc-url: //arxiv.org/pdf/1905.08160.pdf
+  doc-url: //aclanthology.org/P19-1284/
   arxiv: //arxiv.org/abs/1905.08160
   slides:
   booktitle: "ACL"  
