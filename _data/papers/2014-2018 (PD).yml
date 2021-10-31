@@ -129,7 +129,7 @@
   title: Exact Decoding for Phrase-Based Statistical Machine Translation
   authors: Wilker Aziz, Marc Dymetman and Lucia Specia
   booktitle: Proceedings of the 2014 Conference on Empirical Methods on Natural Language Processing
-  doc-url: http://www.aclweb.org/anthology/D/D14/D14-1131.pdf
+  doc-url: https://aclanthology.org/D14-1131/
   booktitle-url: http://emnlp2014.org
   #code: https://github.com/wilkeraziz/chisel
   talk: https://www.youtube.com/watch?v=Y7FMHGoceCA&spfreload=10
