@@ -86,7 +86,7 @@
   title: "Word alignment without NULL words"
   authors: "Philip Schulz, Wilker Aziz and Khalil Sima'an"
   booktitle: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics
-  doc-url: https://www.aclweb.org/anthology/P/P16/P16-2028.pdf
+  doc-url: https://aclanthology.org/P16-2028/
   booktitle-url: http://acl2016.org
   code: https://github.com/philschulz/Aligner 
   poster: /poster/acl2016.pdf
