@@ -57,7 +57,7 @@
   img: entitygcn
   title: "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
   authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
-  doc-url: //arxiv.org/pdf/1808.09920.pdf
+  doc-url: https://aclanthology.org/N19-1240/
   arxiv: //arxiv.org/abs/1808.09920
   booktitle: "NAACL"
   slides:
