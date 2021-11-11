@@ -20,4 +20,4 @@ gallery:
 
 ---
 
-{% include gallery caption="This is ***Pepper***." %}
+{% include gallery caption="This is ***Pepper***! If I am late for a meeting, you can blame her :)" %}
