@@ -26,6 +26,7 @@ including as area chair
 * \*SEM2019 (machine learning for NLP) 
 * ACL2020 (machine learning for NLP), ACL2021 (machine translation and multilinguality)
 * ICRL2021 ([outstanding area chair](https://iclr.cc/Conferences/2021/ProgramCommittee))
+* ICLR2022
 
 and I also review for CL/NLP/MT journals
 
@@ -33,6 +34,7 @@ and I also review for CL/NLP/MT journals
 * Natural Language Engineering
 * Machine Translation
 
+I am a standing reviewer and action editor for ARR.
 
 # Background
 
