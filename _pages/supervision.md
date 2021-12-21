@@ -16,6 +16,7 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # MSc
 
+* Claartje Barkhof. 2021. [Taking a step back: assessing the TransformerVAE as a latent variable model first](https://scripties.uba.uva.nl/search?id=723211)
 * Mathijs Pieters. 2020. [Transparency for Text Classification Models](https://scripties.uba.uva.nl/search?id=715758)
 * Lina Murady. 2020. [Probabilistic Models for Joint Classification and Rationale Extraction](https://scripties.uba.uva.nl/search?id=708925)
 * Eelco van der Wel. 2020. [Improving Controllable Generation with Semi-supervised Deep Generative Models](https://scripties.uba.uva.nl/search?id=715805)
