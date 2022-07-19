@@ -1,0 +1,20 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2022
+  title: Sparse Communication via Mixed Distributions
+  authors: António Farinhas, Wilker Aziz, Vlad Niculae, and André F. T. Martins
+  booktitle: ICLR 
+  doc-url: https://arxiv.org/pdf/2108.02658.pdf
+  arxiv: https://arxiv.org/abs/2108.02658
+  code: https://github.com/probabll/mixed-rv-vae
+-
+  layout: paper
+  paper-type: pre-print
+  selected: y
+  year: 2022
+  title: Statistical Model Criticism of Variational Auto-Encoders
+  authors: Claartje Barkhof and Wilker Aziz
+  arxiv: https://arxiv.org/abs/2204.03030
+
