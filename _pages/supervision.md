@@ -9,6 +9,7 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # PhD
 
+* Gonçalo Correia. 2022. [Learnable Sparsity and Weak Supervision for Data-Efficient, Transparent, and Compact Neural Models](https://www.goncalomcorreia.com/phd-thesis.pdf)
 * Jasmijn Bastings. 2020. [A Tale of Two Sequences: Interpretable and Linguistically-Informed Deep Learning for Natural Language Processing](https://pure.uva.nl/ws/files/50791671/Thesis.pdf)
 * Philip Schulz. 2020. [Latent Variable Models for Machine Translation and How to Learn Them](https://pure.uva.nl/ws/files/48239873/Thesis.pdf)
 * Joachim Daiber. 2018. [Typologically Robust Statistical Machine Translation](https://pure.uva.nl/ws/files/22104792/Thesis.pdf)
@@ -16,7 +17,9 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # MSc
 
-* Nikita Bortych. 2021. [Loss calibrating variational neural machine translation]()
+* Ivo Verhoven. 2022. Inductive Biases for Morphologically Informed Neural Machine Translation
+* Laurence Bont. 2022. Multilingual synthetic QA corpora generation using round-trip consistency with adapters to partially enable zero-shot cross-lingual transfer
+* Nikita Bortych. 2021. Loss calibrating variational neural machine translation
 * Claartje Barkhof. 2021. [Taking a step back: assessing the TransformerVAE as a latent variable model first](https://scripties.uba.uva.nl/search?id=723211)
 * Mathijs Pieters. 2020. [Transparency for Text Classification Models](https://scripties.uba.uva.nl/search?id=715758)
 * Lina Murady. 2020. [Probabilistic Models for Joint Classification and Rationale Extraction](https://scripties.uba.uva.nl/search?id=708925)
