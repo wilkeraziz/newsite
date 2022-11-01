@@ -1,7 +1,7 @@
 -
   layout: paper
   paper-type: pre-print
-  selected: y
+  selected: n
   year: 2021
   title: Sampling-Based Minimum Bayes Risk Decoding for Neural Machine Translation
   authors: Bryan Eikema and Wilker Aziz
