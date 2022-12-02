@@ -9,6 +9,10 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # PhD
 
+**Ongoing:** Bryan Eikema, Pedro Ferreira, Evegenia Ilia, Nicola De Cao, Joris Baan.
+
+**Completed**
+
 * Gonçalo Correia. 2022. [Learnable Sparsity and Weak Supervision for Data-Efficient, Transparent, and Compact Neural Models](https://www.goncalomcorreia.com/phd-thesis.pdf)
 * Jasmijn Bastings. 2020. [A Tale of Two Sequences: Interpretable and Linguistically-Informed Deep Learning for Natural Language Processing](https://pure.uva.nl/ws/files/50791671/Thesis.pdf)
 * Philip Schulz. 2020. [Latent Variable Models for Machine Translation and How to Learn Them](https://pure.uva.nl/ws/files/48239873/Thesis.pdf)
