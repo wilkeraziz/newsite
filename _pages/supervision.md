@@ -17,7 +17,7 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # MSc
 
-* Ivo Verhoven. 2022. Inductive Biases for Morphologically Informed Neural Machine Translation
+* Ivo Verhoven. 2022. [Inductive Biases for Morphologically Informed Neural Machine Translation](https://dspace.uba.uva.nl/server/api/core/bitstreams/82ce7c66-56e2-4c15-b026-65006676861d/content)
 * Laurence Bont. 2022. Multilingual synthetic QA corpora generation using round-trip consistency with adapters to partially enable zero-shot cross-lingual transfer
 * Nikita Bortych. 2021. Loss calibrating variational neural machine translation
 * Claartje Barkhof. 2021. [Taking a step back: assessing the TransformerVAE as a latent variable model first](https://scripties.uba.uva.nl/search?id=723211)
