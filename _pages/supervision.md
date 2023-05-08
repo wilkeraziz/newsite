@@ -9,7 +9,7 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # PhD
 
-**Ongoing:** Bryan Eikema, Pedro Ferreira, Evegenia Ilia, Nicola De Cao, Joris Baan.
+**Ongoing:** Bryan Eikema, Pedro Ferreira, Evgenia Ilia, Nicola De Cao, Joris Baan.
 
 **Completed**
 
