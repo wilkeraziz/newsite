@@ -9,3 +9,4 @@ I am trying to organise my lecture notes in what looks like a book. It will sure
 
 * [Appendix B - Probability Theory](/assets/pdfs/lecture-notes-appendix-B.pdf)
 * [Chapter 3 - Generative Models of Text Classification](/assets/pdfs/generative.pdf)
+* [Chapter 4 - Discriminative Models of Text Classification and Regression](/assets/pdfs/discriminative.pdf)
