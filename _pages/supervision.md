@@ -9,7 +9,7 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # PhD
 
-**Ongoing:** Bryan Eikema, Pedro Ferreira, Evgenia Ilia, Nicola De Cao, Joris Baan.
+**Ongoing:** Nicola De Cao, Bryan Eikema, Pedro Ferreira, Joris Baan, Evgenia Ilia.
 
 **Completed**
 
@@ -21,9 +21,13 @@ Here you can find links to the PhD and MSc theses I supervised or co-supervised.
 
 # MSc
 
+* Frank Verhoef. 2023. [Improving Dialogue Generation in Longer Conversations by Explicitly Modeling Mentalizing and Joint Co-construction](https://scripties.uba.uva.nl/search?id=record_53827)
+* Damiaan Reijnaers, 2023. [Exploiting Machine Translationese for Source Language Identification](https://scripties.uba.uva.nl/search?id=record_53865)
+* John Gkountouras. 2023. [The Fine Art of Quantization: Harnessing Efficiency in Large Language Models](https://scripties.uba.uva.nl/search?id=record_53686)
+* Gerson Foks. 2023. [Towards Efficient Minimum Bayes Risk Decoding](https://eprints.illc.uva.nl/id/eprint/2242/1/MoL-2023-04.text.pdf)
 * Ivo Verhoven. 2022. [Inductive Biases for Morphologically Informed Neural Machine Translation](https://dspace.uba.uva.nl/server/api/core/bitstreams/82ce7c66-56e2-4c15-b026-65006676861d/content)
 * Laurence Bont. 2022. Multilingual synthetic QA corpora generation using round-trip consistency with adapters to partially enable zero-shot cross-lingual transfer
-* Nikita Bortych. 2021. Loss calibrating variational neural machine translation
+* Nikita Bortych. 2021. [Loss calibrating variational neural machine translation](https://scripties.uba.uva.nl/search?id=record_51715)
 * Claartje Barkhof. 2021. [Taking a step back: assessing the TransformerVAE as a latent variable model first](https://scripties.uba.uva.nl/search?id=723211)
 * Mathijs Pieters. 2020. [Transparency for Text Classification Models](https://scripties.uba.uva.nl/search?id=715758)
 * Lina Murady. 2020. [Probabilistic Models for Joint Classification and Rationale Extraction](https://scripties.uba.uva.nl/search?id=708925)
