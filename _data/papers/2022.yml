@@ -5,7 +5,7 @@
   year: 2022
   title: Sampling-Based Minimum Bayes Risk Decoding for Neural Machine Translation
   authors: Bryan Eikema and Wilker Aziz
-  doc-url: https://arxiv.org/pdf/2108.04718.pdf
+  doc-url: https://aclanthology.org/2022.emnlp-main.754/ 
   arxiv: https://arxiv.org/abs/2108.04718
   code: https://github.com/Roxot/mbr-nmt
   booktitle: EMNLP
@@ -16,7 +16,7 @@
   year: 2022
   title: Stop Measuring Calibration When Humans Disagree
   authors: Joris Baan, Wilker Aziz, Barbara Plank, and Raquel Fernandez
-  doc-url: https://arxiv.org/pdf/2210.16133.pdf
+  doc-url: https://aclanthology.org/2022.emnlp-main.124/ 
   arxiv: https://arxiv.org/abs/2210.16133
   booktitle: EMNLP
 -
@@ -27,7 +27,7 @@
   title: Sparse Communication via Mixed Distributions
   authors: António Farinhas, Wilker Aziz, Vlad Niculae, and André F. T. Martins
   booktitle: ICLR 
-  doc-url: https://arxiv.org/pdf/2108.02658.pdf
+  doc-url: https://openreview.net/forum?id=WAid50QschI 
   arxiv: https://arxiv.org/abs/2108.02658
   code: https://github.com/probabll/mixed-rv-vae
 -
