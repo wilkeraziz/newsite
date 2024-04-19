@@ -47,6 +47,7 @@
   doc-url: https://arxiv.org/pdf/1904.04676.pdf
   arxiv: https://arxiv.org/abs/1904.04676
   booktitle: "UAI"
+  spotlight: y
   slides:
   code: https://github.com/nicola-decao/BNAF
 -
